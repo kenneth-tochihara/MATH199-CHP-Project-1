@@ -1,0 +1,637 @@
+NFL,St. Louis Rams,13,3,1999,2.5,2.5
+NFL,Washington Redskins,10,6,1999,1.0,1.0
+NFL,Indianapolis Colts,13,3,1999,2.5,2.5
+NFL,Carolina Panthers,8,8,1999,0.0,0.0
+NFL,Minnesota Vikings,10,6,1999,1.0,1.0
+NFL,Jacksonville Jaguars,14,2,1999,3.0,3.0
+NFL,Tennessee Titans,13,3,1999,2.5,2.5
+NFL,Kansas City Chiefs,9,7,1999,0.5,0.5
+NFL,Oakland Raiders,8,8,1999,0.0,0.0
+NFL,Green Bay Packers,8,8,1999,0.0,0.0
+NFL,Dallas Cowboys,8,8,1999,0.0,0.0
+NFL,Seattle Seahawks,9,7,1999,0.5,0.5
+NFL,Miami Dolphins,9,7,1999,0.5,0.5
+NFL,Baltimore Ravens,8,8,1999,0.0,0.0
+NFL,Detroit Lions,8,8,1999,0.0,0.0
+NFL,Buffalo Bills,11,5,1999,1.5,1.5
+NFL,Pittsburgh Steelers,6,10,1999,-1.0,1.0
+NFL,Denver Broncos,6,10,1999,-1.0,1.0
+NFL,New York Jets,8,8,1999,0.0,0.0
+NFL,New England Patriots,8,8,1999,0.0,0.0
+NFL,New York Giants,7,9,1999,-0.5,0.5
+NFL,San Francisco 49ers,4,12,1999,-2.0,2.0
+NFL,Atlanta Falcons,5,11,1999,-1.5,1.5
+NFL,Cincinnati Bengals,4,12,1999,-2.0,2.0
+NFL,Philadelphia Eagles,5,11,1999,-1.5,1.5
+NFL,Chicago Bears,6,10,1999,-1.0,1.0
+NFL,Tampa Bay Buccaneers,11,5,1999,1.5,1.5
+NFL,San Diego Chargers,8,8,1999,0.0,0.0
+NFL,New Orleans Saints,3,13,1999,-2.5,2.5
+NFL,Arizona Cardinals,6,10,1999,-1.0,1.0
+NFL,Cleveland Browns,2,14,1999,-3.0,3.0
+NFL,St. Louis Rams,10,6,2000,1.0,1.0
+NFL,Denver Broncos,11,5,2000,1.5,1.5
+NFL,Oakland Raiders,12,4,2000,2.0,2.0
+NFL,Indianapolis Colts,10,6,2000,1.0,1.0
+NFL,Minnesota Vikings,11,5,2000,1.5,1.5
+NFL,San Francisco 49ers,6,10,2000,-1.0,1.0
+NFL,Tampa Bay Buccaneers,10,6,2000,1.0,1.0
+NFL,Jacksonville Jaguars,7,9,2000,-0.5,0.5
+NFL,Kansas City Chiefs,7,9,2000,-0.5,0.5
+NFL,New Orleans Saints,10,6,2000,1.0,1.0
+NFL,Green Bay Packers,9,7,2000,0.5,0.5
+NFL,Philadelphia Eagles,11,5,2000,1.5,1.5
+NFL,Tennessee Titans,13,3,2000,2.5,2.5
+NFL,Baltimore Ravens,12,4,2000,2.0,2.0
+NFL,New York Giants,12,4,2000,2.0,2.0
+NFL,Miami Dolphins,11,5,2000,1.5,1.5
+NFL,Pittsburgh Steelers,9,7,2000,0.5,0.5
+NFL,New York Jets,9,7,2000,0.5,0.5
+NFL,Seattle Seahawks,6,10,2000,-1.0,1.0
+NFL,Buffalo Bills,8,8,2000,0.0,0.0
+NFL,Carolina Panthers,7,9,2000,-0.5,0.5
+NFL,Detroit Lions,9,7,2000,0.5,0.5
+NFL,Dallas Cowboys,5,11,2000,-1.5,1.5
+NFL,Washington Redskins,8,8,2000,0.0,0.0
+NFL,New England Patriots,5,11,2000,-1.5,1.5
+NFL,San Diego Chargers,1,15,2000,-3.5,3.5
+NFL,Atlanta Falcons,4,12,2000,-2.0,2.0
+NFL,Chicago Bears,5,11,2000,-1.5,1.5
+NFL,Arizona Cardinals,3,13,2000,-2.5,2.5
+NFL,Cincinnati Bengals,4,12,2000,-2.0,2.0
+NFL,Cleveland Browns,3,13,2000,-2.5,2.5
+NFL,St. Louis Rams,14,2,2001,3.0,3.0
+NFL,Indianapolis Colts,6,10,2001,-1.0,1.0
+NFL,San Francisco 49ers,12,4,2001,2.0,2.0
+NFL,Oakland Raiders,10,6,2001,1.0,1.0
+NFL,Green Bay Packers,12,4,2001,2.0,2.0
+NFL,New England Patriots,11,5,2001,1.5,1.5
+NFL,Pittsburgh Steelers,13,3,2001,2.5,2.5
+NFL,Miami Dolphins,11,5,2001,1.5,1.5
+NFL,Philadelphia Eagles,11,5,2001,1.5,1.5
+NFL,Denver Broncos,8,8,2001,0.0,0.0
+NFL,Chicago Bears,13,3,2001,2.5,2.5
+NFL,Tennessee Titans,7,9,2001,-0.5,0.5
+NFL,New Orleans Saints,7,9,2001,-0.5,0.5
+NFL,San Diego Chargers,5,11,2001,-1.5,1.5
+NFL,Tampa Bay Buccaneers,9,7,2001,0.5,0.5
+NFL,Kansas City Chiefs,6,10,2001,-1.0,1.0
+NFL,New York Jets,10,6,2001,1.0,1.0
+NFL,Baltimore Ravens,10,6,2001,1.0,1.0
+NFL,Seattle Seahawks,9,7,2001,0.5,0.5
+NFL,Arizona Cardinals,7,9,2001,-0.5,0.5
+NFL,New York Giants,7,9,2001,-0.5,0.5
+NFL,Jacksonville Jaguars,6,10,2001,-1.0,1.0
+NFL,Atlanta Falcons,7,9,2001,-0.5,0.5
+NFL,Minnesota Vikings,5,11,2001,-1.5,1.5
+NFL,Cleveland Browns,7,9,2001,-0.5,0.5
+NFL,Detroit Lions,2,14,2001,-3.0,3.0
+NFL,Buffalo Bills,3,13,2001,-2.5,2.5
+NFL,Washington Redskins,8,8,2001,0.0,0.0
+NFL,Carolina Panthers,1,15,2001,-3.5,3.5
+NFL,Dallas Cowboys,5,11,2001,-1.5,1.5
+NFL,Cincinnati Bengals,6,10,2001,-1.0,1.0
+NFL,Kansas City Chiefs,8,8,2002,0.0,0.0
+NFL,Oakland Raiders,11,5,2002,1.5,1.5
+NFL,New Orleans Saints,9,7,2002,0.5,0.5
+NFL,Philadelphia Eagles,12,4,2002,2.0,2.0
+NFL,Atlanta Falcons,9,6,2002,0.7745966692414834,0.7745966692414834
+NFL,Green Bay Packers,12,4,2002,2.0,2.0
+NFL,Denver Broncos,9,7,2002,0.5,0.5
+NFL,Pittsburgh Steelers,10,5,2002,1.2909944487358056,1.2909944487358056
+NFL,Minnesota Vikings,6,10,2002,-1.0,1.0
+NFL,New England Patriots,9,7,2002,0.5,0.5
+NFL,Buffalo Bills,8,8,2002,0.0,0.0
+NFL,Miami Dolphins,9,7,2002,0.5,0.5
+NFL,Tennessee Titans,11,5,2002,1.5,1.5
+NFL,San Francisco 49ers,10,6,2002,1.0,1.0
+NFL,New York Jets,9,7,2002,0.5,0.5
+NFL,Seattle Seahawks,7,9,2002,-0.5,0.5
+NFL,Indianapolis Colts,10,6,2002,1.0,1.0
+NFL,Tampa Bay Buccaneers,12,4,2002,2.0,2.0
+NFL,Cleveland Browns,9,7,2002,0.5,0.5
+NFL,San Diego Chargers,8,8,2002,0.0,0.0
+NFL,Jacksonville Jaguars,6,10,2002,-1.0,1.0
+NFL,New York Giants,10,6,2002,1.0,1.0
+NFL,Baltimore Ravens,7,9,2002,-0.5,0.5
+NFL,St. Louis Rams,7,9,2002,-0.5,0.5
+NFL,Washington Redskins,7,9,2002,-0.5,0.5
+NFL,Detroit Lions,3,13,2002,-2.5,2.5
+NFL,Chicago Bears,4,12,2002,-2.0,2.0
+NFL,Cincinnati Bengals,2,14,2002,-3.0,3.0
+NFL,Arizona Cardinals,5,11,2002,-1.5,1.5
+NFL,Carolina Panthers,7,9,2002,-0.5,0.5
+NFL,Dallas Cowboys,5,11,2002,-1.5,1.5
+NFL,Houston Texans,4,12,2002,-2.0,2.0
+NFL,Kansas City Chiefs,13,3,2003,2.5,2.5
+NFL,Indianapolis Colts,12,4,2003,2.0,2.0
+NFL,St. Louis Rams,12,4,2003,2.0,2.0
+NFL,Green Bay Packers,10,6,2003,1.0,1.0
+NFL,Tennessee Titans,12,4,2003,2.0,2.0
+NFL,Minnesota Vikings,9,7,2003,0.5,0.5
+NFL,Seattle Seahawks,10,6,2003,1.0,1.0
+NFL,Baltimore Ravens,10,6,2003,1.0,1.0
+NFL,San Francisco 49ers,7,9,2003,-0.5,0.5
+NFL,Denver Broncos,10,6,2003,1.0,1.0
+NFL,Philadelphia Eagles,12,4,2003,2.0,2.0
+NFL,New England Patriots,14,2,2003,3.0,3.0
+NFL,Cincinnati Bengals,8,8,2003,0.0,0.0
+NFL,New Orleans Saints,8,8,2003,0.0,0.0
+NFL,Carolina Panthers,11,5,2003,1.5,1.5
+NFL,San Diego Chargers,4,12,2003,-2.0,2.0
+NFL,Miami Dolphins,10,6,2003,1.0,1.0
+NFL,Tampa Bay Buccaneers,7,9,2003,-0.5,0.5
+NFL,Pittsburgh Steelers,6,10,2003,-1.0,1.0
+NFL,Atlanta Falcons,5,11,2003,-1.5,1.5
+NFL,Dallas Cowboys,10,6,2003,1.0,1.0
+NFL,Washington Redskins,5,11,2003,-1.5,1.5
+NFL,New York Jets,6,10,2003,-1.0,1.0
+NFL,Chicago Bears,7,9,2003,-0.5,0.5
+NFL,Jacksonville Jaguars,5,11,2003,-1.5,1.5
+NFL,Detroit Lions,5,11,2003,-1.5,1.5
+NFL,Oakland Raiders,4,12,2003,-2.0,2.0
+NFL,Houston Texans,5,11,2003,-1.5,1.5
+NFL,Cleveland Browns,5,11,2003,-1.5,1.5
+NFL,Buffalo Bills,6,10,2003,-1.0,1.0
+NFL,New York Giants,4,12,2003,-2.0,2.0
+NFL,Arizona Cardinals,4,12,2003,-2.0,2.0
+NFL,Indianapolis Colts,12,4,2004,2.0,2.0
+NFL,Kansas City Chiefs,7,9,2004,-0.5,0.5
+NFL,San Diego Chargers,12,4,2004,2.0,2.0
+NFL,New England Patriots,14,2,2004,3.0,3.0
+NFL,Green Bay Packers,10,6,2004,1.0,1.0
+NFL,Minnesota Vikings,8,8,2004,0.0,0.0
+NFL,Buffalo Bills,9,7,2004,0.5,0.5
+NFL,Philadelphia Eagles,13,3,2004,2.5,2.5
+NFL,Denver Broncos,10,6,2004,1.0,1.0
+NFL,Cincinnati Bengals,8,8,2004,0.0,0.0
+NFL,Pittsburgh Steelers,15,1,2004,3.5,3.5
+NFL,Seattle Seahawks,9,7,2004,0.5,0.5
+NFL,Carolina Panthers,7,9,2004,-0.5,0.5
+NFL,New Orleans Saints,8,8,2004,0.0,0.0
+NFL,Tennessee Titans,5,11,2004,-1.5,1.5
+NFL,Atlanta Falcons,11,5,2004,1.5,1.5
+NFL,New York Jets,10,6,2004,1.0,1.0
+NFL,Oakland Raiders,5,11,2004,-1.5,1.5
+NFL,St. Louis Rams,8,8,2004,0.0,0.0
+NFL,Baltimore Ravens,9,7,2004,0.5,0.5
+NFL,Houston Texans,7,9,2004,-0.5,0.5
+NFL,New York Giants,6,10,2004,-1.0,1.0
+NFL,Tampa Bay Buccaneers,5,11,2004,-1.5,1.5
+NFL,Detroit Lions,6,10,2004,-1.0,1.0
+NFL,Dallas Cowboys,6,10,2004,-1.0,1.0
+NFL,Arizona Cardinals,6,10,2004,-1.0,1.0
+NFL,Cleveland Browns,4,12,2004,-2.0,2.0
+NFL,Miami Dolphins,4,12,2004,-2.0,2.0
+NFL,Jacksonville Jaguars,9,7,2004,0.5,0.5
+NFL,San Francisco 49ers,2,14,2004,-3.0,3.0
+NFL,Washington Redskins,6,10,2004,-1.0,1.0
+NFL,Chicago Bears,5,11,2004,-1.5,1.5
+NFL,Seattle Seahawks,13,3,2005,2.5,2.5
+NFL,Indianapolis Colts,14,2,2005,3.0,3.0
+NFL,New York Giants,11,5,2005,1.5,1.5
+NFL,Cincinnati Bengals,11,5,2005,1.5,1.5
+NFL,San Diego Chargers,9,7,2005,0.5,0.5
+NFL,Kansas City Chiefs,10,6,2005,1.0,1.0
+NFL,Denver Broncos,13,3,2005,2.5,2.5
+NFL,Carolina Panthers,11,5,2005,1.5,1.5
+NFL,Pittsburgh Steelers,11,5,2005,1.5,1.5
+NFL,New England Patriots,10,6,2005,1.0,1.0
+NFL,St. Louis Rams,6,10,2005,-1.0,1.0
+NFL,Jacksonville Jaguars,12,4,2005,2.0,2.0
+NFL,Washington Redskins,10,6,2005,1.0,1.0
+NFL,Atlanta Falcons,8,8,2005,0.0,0.0
+NFL,Dallas Cowboys,9,7,2005,0.5,0.5
+NFL,Miami Dolphins,9,7,2005,0.5,0.5
+NFL,Arizona Cardinals,5,11,2005,-1.5,1.5
+NFL,Philadelphia Eagles,6,10,2005,-1.0,1.0
+NFL,Minnesota Vikings,9,7,2005,0.5,0.5
+NFL,Tampa Bay Buccaneers,11,5,2005,1.5,1.5
+NFL,Tennessee Titans,4,12,2005,-2.0,2.0
+NFL,Green Bay Packers,4,12,2005,-2.0,2.0
+NFL,Oakland Raiders,4,12,2005,-2.0,2.0
+NFL,Buffalo Bills,5,11,2005,-1.5,1.5
+NFL,Baltimore Ravens,6,10,2005,-1.0,1.0
+NFL,Houston Texans,2,14,2005,-3.0,3.0
+NFL,Chicago Bears,11,5,2005,1.5,1.5
+NFL,Detroit Lions,5,11,2005,-1.5,1.5
+NFL,New York Jets,4,12,2005,-2.0,2.0
+NFL,San Francisco 49ers,4,12,2005,-2.0,2.0
+NFL,New Orleans Saints,3,13,2005,-2.5,2.5
+NFL,Cleveland Browns,6,10,2005,-1.0,1.0
+NFL,San Diego Chargers,14,2,2006,3.0,3.0
+NFL,Indianapolis Colts,12,4,2006,2.0,2.0
+NFL,Chicago Bears,13,3,2006,2.5,2.5
+NFL,Dallas Cowboys,9,7,2006,0.5,0.5
+NFL,New Orleans Saints,10,6,2006,1.0,1.0
+NFL,Philadelphia Eagles,10,6,2006,1.0,1.0
+NFL,New England Patriots,12,4,2006,2.0,2.0
+NFL,Cincinnati Bengals,8,8,2006,0.0,0.0
+NFL,Jacksonville Jaguars,8,8,2006,0.0,0.0
+NFL,St. Louis Rams,8,8,2006,0.0,0.0
+NFL,New York Giants,8,8,2006,0.0,0.0
+NFL,Baltimore Ravens,13,3,2006,2.5,2.5
+NFL,Pittsburgh Steelers,8,8,2006,0.0,0.0
+NFL,Seattle Seahawks,9,7,2006,0.5,0.5
+NFL,Kansas City Chiefs,9,7,2006,0.5,0.5
+NFL,Tennessee Titans,8,8,2006,0.0,0.0
+NFL,Denver Broncos,9,7,2006,0.5,0.5
+NFL,New York Jets,10,6,2006,1.0,1.0
+NFL,Arizona Cardinals,5,11,2006,-1.5,1.5
+NFL,Washington Redskins,5,11,2006,-1.5,1.5
+NFL,Detroit Lions,3,13,2006,-2.5,2.5
+NFL,Green Bay Packers,8,8,2006,0.0,0.0
+NFL,Buffalo Bills,7,9,2006,-0.5,0.5
+NFL,San Francisco 49ers,7,9,2006,-0.5,0.5
+NFL,Atlanta Falcons,7,9,2006,-0.5,0.5
+NFL,Minnesota Vikings,6,10,2006,-1.0,1.0
+NFL,Carolina Panthers,8,8,2006,0.0,0.0
+NFL,Houston Texans,6,10,2006,-1.0,1.0
+NFL,Miami Dolphins,6,10,2006,-1.0,1.0
+NFL,Cleveland Browns,4,12,2006,-2.0,2.0
+NFL,Tampa Bay Buccaneers,4,12,2006,-2.0,2.0
+NFL,Oakland Raiders,2,14,2006,-3.0,3.0
+NFL,New England Patriots,16,0,2007,4.0,4.0
+NFL,Dallas Cowboys,13,3,2007,2.5,2.5
+NFL,Indianapolis Colts,13,3,2007,2.5,2.5
+NFL,Green Bay Packers,13,3,2007,2.5,2.5
+NFL,San Diego Chargers,11,5,2007,1.5,1.5
+NFL,Jacksonville Jaguars,11,5,2007,1.5,1.5
+NFL,Arizona Cardinals,8,8,2007,0.0,0.0
+NFL,Cleveland Browns,10,6,2007,1.0,1.0
+NFL,Seattle Seahawks,10,6,2007,1.0,1.0
+NFL,Pittsburgh Steelers,10,6,2007,1.0,1.0
+NFL,Cincinnati Bengals,7,9,2007,-0.5,0.5
+NFL,Houston Texans,8,8,2007,0.0,0.0
+NFL,New Orleans Saints,7,9,2007,-0.5,0.5
+NFL,New York Giants,10,6,2007,1.0,1.0
+NFL,Minnesota Vikings,8,8,2007,0.0,0.0
+NFL,Detroit Lions,7,9,2007,-0.5,0.5
+NFL,Philadelphia Eagles,8,8,2007,0.0,0.0
+NFL,Tampa Bay Buccaneers,9,7,2007,0.5,0.5
+NFL,Washington Redskins,9,7,2007,0.5,0.5
+NFL,Chicago Bears,7,9,2007,-0.5,0.5
+NFL,Denver Broncos,7,9,2007,-0.5,0.5
+NFL,Tennessee Titans,10,6,2007,1.0,1.0
+NFL,Oakland Raiders,4,12,2007,-2.0,2.0
+NFL,Baltimore Ravens,5,11,2007,-1.5,1.5
+NFL,New York Jets,4,12,2007,-2.0,2.0
+NFL,Miami Dolphins,1,15,2007,-3.5,3.5
+NFL,Carolina Panthers,7,9,2007,-0.5,0.5
+NFL,St. Louis Rams,3,13,2007,-2.5,2.5
+NFL,Atlanta Falcons,4,12,2007,-2.0,2.0
+NFL,Buffalo Bills,7,9,2007,-0.5,0.5
+NFL,Kansas City Chiefs,4,12,2007,-2.0,2.0
+NFL,San Francisco 49ers,5,11,2007,-1.5,1.5
+NFL,New Orleans Saints,8,8,2008,0.0,0.0
+NFL,San Diego Chargers,8,8,2008,0.0,0.0
+NFL,New York Giants,12,4,2008,2.0,2.0
+NFL,Arizona Cardinals,9,7,2008,0.5,0.5
+NFL,Green Bay Packers,6,10,2008,-1.0,1.0
+NFL,Philadelphia Eagles,9,6,2008,0.7745966692414834,0.7745966692414834
+NFL,Carolina Panthers,12,4,2008,2.0,2.0
+NFL,New England Patriots,11,5,2008,1.5,1.5
+NFL,New York Jets,9,7,2008,0.5,0.5
+NFL,Atlanta Falcons,11,5,2008,1.5,1.5
+NFL,Baltimore Ravens,11,5,2008,1.5,1.5
+NFL,Minnesota Vikings,10,6,2008,1.0,1.0
+NFL,Indianapolis Colts,12,4,2008,2.0,2.0
+NFL,Tennessee Titans,13,3,2008,2.5,2.5
+NFL,Chicago Bears,9,7,2008,0.5,0.5
+NFL,Denver Broncos,8,8,2008,0.0,0.0
+NFL,Houston Texans,8,8,2008,0.0,0.0
+NFL,Dallas Cowboys,9,7,2008,0.5,0.5
+NFL,Tampa Bay Buccaneers,9,7,2008,0.5,0.5
+NFL,Pittsburgh Steelers,12,4,2008,2.0,2.0
+NFL,Miami Dolphins,11,5,2008,1.5,1.5
+NFL,San Francisco 49ers,7,9,2008,-0.5,0.5
+NFL,Buffalo Bills,7,9,2008,-0.5,0.5
+NFL,Jacksonville Jaguars,5,11,2008,-1.5,1.5
+NFL,Seattle Seahawks,4,12,2008,-2.0,2.0
+NFL,Kansas City Chiefs,2,14,2008,-3.0,3.0
+NFL,Detroit Lions,0,16,2008,-4.0,4.0
+NFL,Washington Redskins,8,8,2008,0.0,0.0
+NFL,Oakland Raiders,5,11,2008,-1.5,1.5
+NFL,St. Louis Rams,2,14,2008,-3.0,3.0
+NFL,Cleveland Browns,4,12,2008,-2.0,2.0
+NFL,Cincinnati Bengals,4,11,2008,-1.8073922282301278,1.8073922282301278
+NFL,New Orleans Saints,13,3,2009,2.5,2.5
+NFL,Minnesota Vikings,12,4,2009,2.0,2.0
+NFL,Green Bay Packers,11,5,2009,1.5,1.5
+NFL,San Diego Chargers,13,3,2009,2.5,2.5
+NFL,Philadelphia Eagles,11,5,2009,1.5,1.5
+NFL,New England Patriots,10,6,2009,1.0,1.0
+NFL,Indianapolis Colts,14,2,2009,3.0,3.0
+NFL,New York Giants,8,8,2009,0.0,0.0
+NFL,Baltimore Ravens,9,7,2009,0.5,0.5
+NFL,Houston Texans,9,7,2009,0.5,0.5
+NFL,Arizona Cardinals,10,6,2009,1.0,1.0
+NFL,Pittsburgh Steelers,9,7,2009,0.5,0.5
+NFL,Atlanta Falcons,9,7,2009,0.5,0.5
+NFL,Dallas Cowboys,11,5,2009,1.5,1.5
+NFL,Miami Dolphins,7,9,2009,-0.5,0.5
+NFL,Tennessee Titans,8,8,2009,0.0,0.0
+NFL,New York Jets,9,7,2009,0.5,0.5
+NFL,San Francisco 49ers,8,8,2009,0.0,0.0
+NFL,Chicago Bears,7,9,2009,-0.5,0.5
+NFL,Denver Broncos,8,8,2009,0.0,0.0
+NFL,Carolina Panthers,8,8,2009,0.0,0.0
+NFL,Cincinnati Bengals,10,6,2009,1.0,1.0
+NFL,Kansas City Chiefs,4,12,2009,-2.0,2.0
+NFL,Jacksonville Jaguars,7,9,2009,-0.5,0.5
+NFL,Seattle Seahawks,5,11,2009,-1.5,1.5
+NFL,Washington Redskins,4,12,2009,-2.0,2.0
+NFL,Detroit Lions,2,14,2009,-3.0,3.0
+NFL,Buffalo Bills,6,10,2009,-1.0,1.0
+NFL,Cleveland Browns,5,11,2009,-1.5,1.5
+NFL,Tampa Bay Buccaneers,3,13,2009,-2.5,2.5
+NFL,Oakland Raiders,5,11,2009,-1.5,1.5
+NFL,St. Louis Rams,1,15,2009,-3.5,3.5
+NFL,New England Patriots,14,2,2010,3.0,3.0
+NFL,San Diego Chargers,9,7,2010,0.5,0.5
+NFL,Philadelphia Eagles,10,6,2010,1.0,1.0
+NFL,Indianapolis Colts,10,6,2010,1.0,1.0
+NFL,Atlanta Falcons,13,3,2010,2.5,2.5
+NFL,Oakland Raiders,8,8,2010,0.0,0.0
+NFL,New York Giants,10,6,2010,1.0,1.0
+NFL,Dallas Cowboys,6,10,2010,-1.0,1.0
+NFL,Houston Texans,6,10,2010,-1.0,1.0
+NFL,Green Bay Packers,10,6,2010,1.0,1.0
+NFL,New Orleans Saints,11,5,2010,1.5,1.5
+NFL,Pittsburgh Steelers,12,4,2010,2.0,2.0
+NFL,New York Jets,11,5,2010,1.5,1.5
+NFL,Kansas City Chiefs,10,6,2010,1.0,1.0
+NFL,Detroit Lions,6,10,2010,-1.0,1.0
+NFL,Baltimore Ravens,12,4,2010,2.0,2.0
+NFL,Tennessee Titans,6,10,2010,-1.0,1.0
+NFL,Jacksonville Jaguars,8,8,2010,0.0,0.0
+NFL,Denver Broncos,4,12,2010,-2.0,2.0
+NFL,Tampa Bay Buccaneers,10,6,2010,1.0,1.0
+NFL,Chicago Bears,11,5,2010,1.5,1.5
+NFL,Cincinnati Bengals,4,12,2010,-2.0,2.0
+NFL,Seattle Seahawks,7,9,2010,-0.5,0.5
+NFL,San Francisco 49ers,6,10,2010,-1.0,1.0
+NFL,Washington Redskins,6,10,2010,-1.0,1.0
+NFL,St. Louis Rams,7,9,2010,-0.5,0.5
+NFL,Arizona Cardinals,5,11,2010,-1.5,1.5
+NFL,Buffalo Bills,4,12,2010,-2.0,2.0
+NFL,Minnesota Vikings,6,10,2010,-1.0,1.0
+NFL,Miami Dolphins,7,9,2010,-0.5,0.5
+NFL,Cleveland Browns,5,11,2010,-1.5,1.5
+NFL,Carolina Panthers,2,14,2010,-3.0,3.0
+NFL,Green Bay Packers,15,1,2011,3.5,3.5
+NFL,New Orleans Saints,13,3,2011,2.5,2.5
+NFL,New England Patriots,13,3,2011,2.5,2.5
+NFL,Detroit Lions,10,6,2011,1.0,1.0
+NFL,Carolina Panthers,6,10,2011,-1.0,1.0
+NFL,San Diego Chargers,8,8,2011,0.0,0.0
+NFL,Atlanta Falcons,10,6,2011,1.0,1.0
+NFL,Philadelphia Eagles,8,8,2011,0.0,0.0
+NFL,New York Giants,9,7,2011,0.5,0.5
+NFL,Houston Texans,10,6,2011,1.0,1.0
+NFL,San Francisco 49ers,13,3,2011,2.5,2.5
+NFL,Baltimore Ravens,12,4,2011,2.0,2.0
+NFL,New York Jets,8,8,2011,0.0,0.0
+NFL,Buffalo Bills,6,10,2011,-1.0,1.0
+NFL,Dallas Cowboys,8,8,2011,0.0,0.0
+NFL,Oakland Raiders,8,8,2011,0.0,0.0
+NFL,Chicago Bears,8,8,2011,0.0,0.0
+NFL,Cincinnati Bengals,9,7,2011,0.5,0.5
+NFL,Minnesota Vikings,3,13,2011,-2.5,2.5
+NFL,Miami Dolphins,6,10,2011,-1.0,1.0
+NFL,Tennessee Titans,9,7,2011,0.5,0.5
+NFL,Pittsburgh Steelers,12,4,2011,2.0,2.0
+NFL,Seattle Seahawks,7,9,2011,-0.5,0.5
+NFL,Arizona Cardinals,8,8,2011,0.0,0.0
+NFL,Denver Broncos,8,8,2011,0.0,0.0
+NFL,Washington Redskins,5,11,2011,-1.5,1.5
+NFL,Tampa Bay Buccaneers,4,12,2011,-2.0,2.0
+NFL,Jacksonville Jaguars,5,11,2011,-1.5,1.5
+NFL,Indianapolis Colts,2,14,2011,-3.0,3.0
+NFL,Cleveland Browns,4,12,2011,-2.0,2.0
+NFL,Kansas City Chiefs,7,9,2011,-0.5,0.5
+NFL,St. Louis Rams,2,14,2011,-3.0,3.0
+NFL,New England Patriots,12,4,2012,2.0,2.0
+NFL,Denver Broncos,13,3,2012,2.5,2.5
+NFL,New Orleans Saints,7,9,2012,-0.5,0.5
+NFL,Washington Redskins,10,6,2012,1.0,1.0
+NFL,Green Bay Packers,11,5,2012,1.5,1.5
+NFL,New York Giants,9,7,2012,0.5,0.5
+NFL,Atlanta Falcons,13,3,2012,2.5,2.5
+NFL,Houston Texans,12,4,2012,2.0,2.0
+NFL,Seattle Seahawks,11,5,2012,1.5,1.5
+NFL,Baltimore Ravens,10,6,2012,1.0,1.0
+NFL,San Francisco 49ers,11,4,2012,1.8073922282301278,1.8073922282301278
+NFL,Cincinnati Bengals,10,6,2012,1.0,1.0
+NFL,Tampa Bay Buccaneers,7,9,2012,-0.5,0.5
+NFL,Minnesota Vikings,10,6,2012,1.0,1.0
+NFL,Dallas Cowboys,8,8,2012,0.0,0.0
+NFL,Chicago Bears,10,6,2012,1.0,1.0
+NFL,Detroit Lions,4,12,2012,-2.0,2.0
+NFL,Indianapolis Colts,11,5,2012,1.5,1.5
+NFL,Carolina Panthers,7,9,2012,-0.5,0.5
+NFL,San Diego Chargers,7,9,2012,-0.5,0.5
+NFL,Buffalo Bills,6,10,2012,-1.0,1.0
+NFL,Pittsburgh Steelers,8,8,2012,0.0,0.0
+NFL,Tennessee Titans,6,10,2012,-1.0,1.0
+NFL,Cleveland Browns,5,11,2012,-1.5,1.5
+NFL,St. Louis Rams,7,8,2012,-0.2581988897471611,0.2581988897471611
+NFL,Oakland Raiders,4,12,2012,-2.0,2.0
+NFL,Miami Dolphins,7,9,2012,-0.5,0.5
+NFL,New York Jets,6,10,2012,-1.0,1.0
+NFL,Philadelphia Eagles,4,12,2012,-2.0,2.0
+NFL,Jacksonville Jaguars,2,14,2012,-3.0,3.0
+NFL,Arizona Cardinals,5,11,2012,-1.5,1.5
+NFL,Kansas City Chiefs,2,14,2012,-3.0,3.0
+NFL,Denver Broncos,13,3,2013,2.5,2.5
+NFL,Chicago Bears,8,8,2013,0.0,0.0
+NFL,New England Patriots,12,4,2013,2.0,2.0
+NFL,Philadelphia Eagles,10,6,2013,1.0,1.0
+NFL,Dallas Cowboys,8,8,2013,0.0,0.0
+NFL,Cincinnati Bengals,11,5,2013,1.5,1.5
+NFL,Kansas City Chiefs,11,5,2013,1.5,1.5
+NFL,Green Bay Packers,8,7,2013,0.2581988897471611,0.2581988897471611
+NFL,Seattle Seahawks,13,3,2013,2.5,2.5
+NFL,New Orleans Saints,11,5,2013,1.5,1.5
+NFL,San Francisco 49ers,12,4,2013,2.0,2.0
+NFL,San Diego Chargers,9,7,2013,0.5,0.5
+NFL,Detroit Lions,7,9,2013,-0.5,0.5
+NFL,Minnesota Vikings,5,10,2013,-1.2909944487358056,1.2909944487358056
+NFL,Indianapolis Colts,11,5,2013,1.5,1.5
+NFL,Pittsburgh Steelers,8,8,2013,0.0,0.0
+NFL,Arizona Cardinals,10,6,2013,1.0,1.0
+NFL,Carolina Panthers,12,4,2013,2.0,2.0
+NFL,Tennessee Titans,7,9,2013,-0.5,0.5
+NFL,Atlanta Falcons,4,12,2013,-2.0,2.0
+NFL,St. Louis Rams,7,9,2013,-0.5,0.5
+NFL,Buffalo Bills,6,10,2013,-1.0,1.0
+NFL,Washington Redskins,3,13,2013,-2.5,2.5
+NFL,Oakland Raiders,4,12,2013,-2.0,2.0
+NFL,Baltimore Ravens,8,8,2013,0.0,0.0
+NFL,Miami Dolphins,8,8,2013,0.0,0.0
+NFL,Cleveland Browns,4,12,2013,-2.0,2.0
+NFL,New York Giants,7,9,2013,-0.5,0.5
+NFL,New York Jets,8,8,2013,0.0,0.0
+NFL,Tampa Bay Buccaneers,4,12,2013,-2.0,2.0
+NFL,Houston Texans,2,14,2013,-3.0,3.0
+NFL,Jacksonville Jaguars,4,12,2013,-2.0,2.0
+NFL,Green Bay Packers,12,4,2014,2.0,2.0
+NFL,Denver Broncos,12,4,2014,2.0,2.0
+NFL,Philadelphia Eagles,10,6,2014,1.0,1.0
+NFL,New England Patriots,12,4,2014,2.0,2.0
+NFL,Dallas Cowboys,12,4,2014,2.0,2.0
+NFL,Indianapolis Colts,11,5,2014,1.5,1.5
+NFL,Pittsburgh Steelers,11,5,2014,1.5,1.5
+NFL,Baltimore Ravens,10,6,2014,1.0,1.0
+NFL,New Orleans Saints,7,9,2014,-0.5,0.5
+NFL,Seattle Seahawks,12,4,2014,2.0,2.0
+NFL,Miami Dolphins,8,8,2014,0.0,0.0
+NFL,Atlanta Falcons,6,10,2014,-1.0,1.0
+NFL,New York Giants,6,10,2014,-1.0,1.0
+NFL,Houston Texans,9,7,2014,0.5,0.5
+NFL,Cincinnati Bengals,10,5,2014,1.2909944487358056,1.2909944487358056
+NFL,Kansas City Chiefs,9,7,2014,0.5,0.5
+NFL,San Diego Chargers,9,7,2014,0.5,0.5
+NFL,Buffalo Bills,9,7,2014,0.5,0.5
+NFL,Carolina Panthers,7,8,2014,-0.2581988897471611,0.2581988897471611
+NFL,Minnesota Vikings,7,9,2014,-0.5,0.5
+NFL,St. Louis Rams,6,10,2014,-1.0,1.0
+NFL,Detroit Lions,11,5,2014,1.5,1.5
+NFL,Chicago Bears,5,11,2014,-1.5,1.5
+NFL,Arizona Cardinals,11,5,2014,1.5,1.5
+NFL,San Francisco 49ers,8,8,2014,0.0,0.0
+NFL,Washington Redskins,4,12,2014,-2.0,2.0
+NFL,Cleveland Browns,7,9,2014,-0.5,0.5
+NFL,New York Jets,4,12,2014,-2.0,2.0
+NFL,Tampa Bay Buccaneers,2,14,2014,-3.0,3.0
+NFL,Tennessee Titans,2,14,2014,-3.0,3.0
+NFL,Oakland Raiders,3,13,2014,-2.5,2.5
+NFL,Jacksonville Jaguars,3,13,2014,-2.5,2.5
+NFL,Carolina Panthers,15,1,2015,3.5,3.5
+NFL,Arizona Cardinals,13,3,2015,2.5,2.5
+NFL,New England Patriots,12,4,2015,2.0,2.0
+NFL,Pittsburgh Steelers,10,6,2015,1.0,1.0
+NFL,Seattle Seahawks,10,6,2015,1.0,1.0
+NFL,New York Giants,6,10,2015,-1.0,1.0
+NFL,Cincinnati Bengals,12,4,2015,2.0,2.0
+NFL,New Orleans Saints,7,9,2015,-0.5,0.5
+NFL,Kansas City Chiefs,11,5,2015,1.5,1.5
+NFL,Washington Redskins,9,7,2015,0.5,0.5
+NFL,New York Jets,10,6,2015,1.0,1.0
+NFL,Buffalo Bills,8,8,2015,0.0,0.0
+NFL,Philadelphia Eagles,7,9,2015,-0.5,0.5
+NFL,Jacksonville Jaguars,5,11,2015,-1.5,1.5
+NFL,Green Bay Packers,10,6,2015,1.0,1.0
+NFL,Minnesota Vikings,11,5,2015,1.5,1.5
+NFL,Oakland Raiders,7,9,2015,-0.5,0.5
+NFL,Detroit Lions,7,9,2015,-0.5,0.5
+NFL,Denver Broncos,12,4,2015,2.0,2.0
+NFL,Tampa Bay Buccaneers,6,10,2015,-1.0,1.0
+NFL,Atlanta Falcons,8,8,2015,0.0,0.0
+NFL,Houston Texans,9,7,2015,0.5,0.5
+NFL,Chicago Bears,6,10,2015,-1.0,1.0
+NFL,Indianapolis Colts,8,8,2015,0.0,0.0
+NFL,Baltimore Ravens,5,11,2015,-1.5,1.5
+NFL,San Diego Chargers,4,12,2015,-2.0,2.0
+NFL,Miami Dolphins,6,10,2015,-1.0,1.0
+NFL,Tennessee Titans,3,13,2015,-2.5,2.5
+NFL,St. Louis Rams,7,9,2015,-0.5,0.5
+NFL,Cleveland Browns,3,13,2015,-2.5,2.5
+NFL,Dallas Cowboys,4,12,2015,-2.0,2.0
+NFL,San Francisco 49ers,5,11,2015,-1.5,1.5
+NFL,Atlanta Falcons,11,5,2016,1.5,1.5
+NFL,New Orleans Saints,7,9,2016,-0.5,0.5
+NFL,New England Patriots,14,2,2016,3.0,3.0
+NFL,Green Bay Packers,10,6,2016,1.0,1.0
+NFL,Dallas Cowboys,13,3,2016,2.5,2.5
+NFL,Arizona Cardinals,7,8,2016,-0.2581988897471611,0.2581988897471611
+NFL,Oakland Raiders,12,4,2016,2.0,2.0
+NFL,Indianapolis Colts,8,8,2016,0.0,0.0
+NFL,San Diego Chargers,5,11,2016,-1.5,1.5
+NFL,Pittsburgh Steelers,11,5,2016,1.5,1.5
+NFL,Buffalo Bills,7,9,2016,-0.5,0.5
+NFL,Washington Redskins,8,7,2016,0.2581988897471611,0.2581988897471611
+NFL,Kansas City Chiefs,12,4,2016,2.0,2.0
+NFL,Tennessee Titans,9,7,2016,0.5,0.5
+NFL,Carolina Panthers,6,10,2016,-1.0,1.0
+NFL,Philadelphia Eagles,7,9,2016,-0.5,0.5
+NFL,Miami Dolphins,10,6,2016,1.0,1.0
+NFL,Seattle Seahawks,10,5,2016,1.2909944487358056,1.2909944487358056
+NFL,Tampa Bay Buccaneers,9,7,2016,0.5,0.5
+NFL,Detroit Lions,9,7,2016,0.5,0.5
+NFL,Baltimore Ravens,8,8,2016,0.0,0.0
+NFL,Denver Broncos,9,7,2016,0.5,0.5
+NFL,Minnesota Vikings,8,8,2016,0.0,0.0
+NFL,Cincinnati Bengals,6,9,2016,-0.7745966692414834,0.7745966692414834
+NFL,Jacksonville Jaguars,3,13,2016,-2.5,2.5
+NFL,New York Giants,11,5,2016,1.5,1.5
+NFL,San Francisco 49ers,2,14,2016,-3.0,3.0
+NFL,Chicago Bears,3,13,2016,-2.5,2.5
+NFL,Houston Texans,9,7,2016,0.5,0.5
+NFL,New York Jets,5,11,2016,-1.5,1.5
+NFL,Cleveland Browns,1,15,2016,-3.5,3.5
+NFL,Los Angeles Rams,4,12,2016,-2.0,2.0
+NFL,Los Angeles Rams,11,5,2017,1.5,1.5
+NFL,New England Patriots,13,3,2017,2.5,2.5
+NFL,Philadelphia Eagles,13,3,2017,2.5,2.5
+NFL,New Orleans Saints,11,5,2017,1.5,1.5
+NFL,Jacksonville Jaguars,10,6,2017,1.0,1.0
+NFL,Kansas City Chiefs,10,6,2017,1.0,1.0
+NFL,Detroit Lions,9,7,2017,0.5,0.5
+NFL,Pittsburgh Steelers,13,3,2017,2.5,2.5
+NFL,Baltimore Ravens,9,7,2017,0.5,0.5
+NFL,Minnesota Vikings,13,3,2017,2.5,2.5
+NFL,Seattle Seahawks,9,7,2017,0.5,0.5
+NFL,Carolina Panthers,11,5,2017,1.5,1.5
+NFL,Los Angeles Chargers,9,7,2017,0.5,0.5
+NFL,Dallas Cowboys,9,7,2017,0.5,0.5
+NFL,Atlanta Falcons,10,6,2017,1.0,1.0
+NFL,Washington Redskins,7,9,2017,-0.5,0.5
+NFL,Houston Texans,4,12,2017,-2.0,2.0
+NFL,Tampa Bay Buccaneers,5,11,2017,-1.5,1.5
+NFL,Tennessee Titans,9,7,2017,0.5,0.5
+NFL,San Francisco 49ers,6,10,2017,-1.0,1.0
+NFL,Green Bay Packers,7,9,2017,-0.5,0.5
+NFL,Buffalo Bills,9,7,2017,0.5,0.5
+NFL,Oakland Raiders,6,10,2017,-1.0,1.0
+NFL,New York Jets,5,11,2017,-1.5,1.5
+NFL,Arizona Cardinals,8,8,2017,0.0,0.0
+NFL,Cincinnati Bengals,7,9,2017,-0.5,0.5
+NFL,Denver Broncos,5,11,2017,-1.5,1.5
+NFL,Miami Dolphins,6,10,2017,-1.0,1.0
+NFL,Chicago Bears,5,11,2017,-1.5,1.5
+NFL,Indianapolis Colts,4,12,2017,-2.0,2.0
+NFL,New York Giants,3,13,2017,-2.5,2.5
+NFL,Cleveland Browns,0,16,2017,-4.0,4.0
+NFL,Kansas City Chiefs,12,4,2018,2.0,2.0
+NFL,Los Angeles Rams,13,3,2018,2.5,2.5
+NFL,New Orleans Saints,13,3,2018,2.5,2.5
+NFL,New England Patriots,11,5,2018,1.5,1.5
+NFL,Indianapolis Colts,10,6,2018,1.0,1.0
+NFL,Pittsburgh Steelers,9,6,2018,0.7745966692414834,0.7745966692414834
+NFL,Seattle Seahawks,10,6,2018,1.0,1.0
+NFL,Los Angeles Chargers,12,4,2018,2.0,2.0
+NFL,Chicago Bears,12,4,2018,2.0,2.0
+NFL,Atlanta Falcons,7,9,2018,-0.5,0.5
+NFL,Houston Texans,11,5,2018,1.5,1.5
+NFL,Tampa Bay Buccaneers,5,11,2018,-1.5,1.5
+NFL,Baltimore Ravens,10,6,2018,1.0,1.0
+NFL,Carolina Panthers,7,9,2018,-0.5,0.5
+NFL,Green Bay Packers,6,9,2018,-0.7745966692414834,0.7745966692414834
+NFL,New York Giants,5,11,2018,-1.5,1.5
+NFL,Cincinnati Bengals,6,10,2018,-1.0,1.0
+NFL,Philadelphia Eagles,9,7,2018,0.5,0.5
+NFL,Minnesota Vikings,8,7,2018,0.2581988897471611,0.2581988897471611
+NFL,Cleveland Browns,7,8,2018,-0.2581988897471611,0.2581988897471611
+NFL,San Francisco 49ers,4,12,2018,-2.0,2.0
+NFL,Dallas Cowboys,10,6,2018,1.0,1.0
+NFL,New York Jets,4,12,2018,-2.0,2.0
+NFL,Denver Broncos,6,10,2018,-1.0,1.0
+NFL,Detroit Lions,6,10,2018,-1.0,1.0
+NFL,Miami Dolphins,7,9,2018,-0.5,0.5
+NFL,Tennessee Titans,9,7,2018,0.5,0.5
+NFL,Oakland Raiders,4,12,2018,-2.0,2.0
+NFL,Washington Redskins,7,9,2018,-0.5,0.5
+NFL,Buffalo Bills,6,10,2018,-1.0,1.0
+NFL,Jacksonville Jaguars,5,11,2018,-1.5,1.5
+NFL,Arizona Cardinals,3,13,2018,-2.5,2.5
