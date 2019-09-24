@@ -15,4 +15,3 @@ __Goal:__ Find which sport is most competitive based on Z-score.
   * Does z-score increase probability of winning the championship?
   * How does the length of season effect the z-score?
 * Conclude after looking at the data: What is the most competitive sport?
-
