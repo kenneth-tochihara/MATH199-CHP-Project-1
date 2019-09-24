@@ -9,7 +9,7 @@ __Goal:__ Find which sport is most competitive based on Z-score.
 * Average the z-scores for each sport
   * What's the best team?
   * What was the best season of sports?
-  * What was teh maximum z-score for a sport in a season?
+  * What was the maximum z-score for a sport in a season?
   * Has the z-score changed significantly in the past 20 years?
 * How is z-score effected?
   * Does z-score increase probability of winning the championship?
