@@ -4,7 +4,7 @@ Finding the parity in major sports leagues between sports
 ## Outline
 __Goal:__ Find which sport is most competitive based on Z-score.
 
-* What makes a spot competitive?
+* What makes a sport competitive?
   * Having a lower z-score makes the sport more competitive
 * Average the z-scores for each sport
   * What's the best team?
